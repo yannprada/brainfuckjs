@@ -1,6 +1,6 @@
 # brainfuckjs
 
-Online JS Brainf*ck interpreter
+Online JS Brainfuck interpreter
 
 ## links
 
