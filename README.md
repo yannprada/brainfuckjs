@@ -2,6 +2,8 @@
 
 Online JS Brainf*ck interpreter
 
-## demo
+## links
 
-[Brainf*ckJS](https://yannprada.github.io/brainfuckjs)
+[BrainfuckJS demo](https://yannprada.github.io/brainfuckjs)
+
+[Wikipedia article](https://en.wikipedia.org/wiki/Brainfuck)
